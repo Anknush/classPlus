@@ -1,0 +1,9 @@
+.card-main {
+    width: 85vw;
+    height: 60vw;
+    margin-left: 70px;
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    grid-gap: 20px;
+  }
